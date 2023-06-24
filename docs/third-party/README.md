@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/korspollinering/blob/default/sbom.json) with SHA256 checksum ([4122d8e3 ...](https://git.sr.ht/~sthagen/korspollinering/blob/default/sbom.json.sha256 "sha256:4122d8e365723e2a4bea3589c38a607b81ec88a94cb36fa1192859a671615e91")).
-<!--[[[end]]] (checksum: 2ff5d17be765a73664aecb805a7758f5)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/korspollinering/blob/default/sbom/cdx.json) with SHA256 checksum ([06544f16 ...](https://git.sr.ht/~sthagen/korspollinering/blob/default/sbom/cdx.json.sha256 "sha256:06544f1615bde36a04adecb07ab37a96ed1764a69b9b38700199bd21555114d4")).
+<!--[[[end]]] (checksum: 23f1df9e86c626a1ab75bc3fc8af8a78)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -42,10 +42,10 @@ Base graphviz file in dot format: [Trees of the direct dependencies](package-dep
 <!--[[[fill dependency_tree_console_text()]]]-->
 ````console
 GitPython==3.1.31
-  - gitdb [required: >=4.0.1,<5, installed: 4.0.10]
-    - smmap [required: >=3.0.1,<6, installed: 5.0.0]
+└── gitdb [required: >=4.0.1,<5, installed: 4.0.10]
+    └── smmap [required: >=3.0.1,<6, installed: 5.0.0]
 PyYAML==6.0
 typer==0.7.0
-  - click [required: >=7.1.1,<9.0.0, installed: 8.1.3]
+└── click [required: >=7.1.1,<9.0.0, installed: 8.1.3]
 ````
-<!--[[[end]]] (checksum: 130fae542e052d1bf6d27d6b9ab23f83)-->
+<!--[[[end]]] (checksum: f3ba95e2f149c1d1fb6a61658f55bb01)-->
