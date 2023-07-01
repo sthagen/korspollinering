@@ -11,6 +11,7 @@ Third party dependencies are documented in the folder [third-party](docs/third-p
 [![wheel](https://img.shields.io/pypi/wheel/korspollinering.svg?style=flat)](https://pypi.python.org/pypi/korspollinering/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/korspollinering.svg?style=flat)](https://pypi.python.org/pypi/korspollinering/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/korspollinering.svg?style=flat)](https://pypi.python.org/pypi/korspollinering/)
+[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/korspollinering.svg?style=flat)](https://git.sr.ht/~sthagen/korspollinering/log)
 
 ## Bug Tracker
 
