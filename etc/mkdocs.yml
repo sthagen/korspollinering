@@ -1,5 +1,7 @@
 site_name: Korspollinering
 site_description: "Cross pollination (Swedish: korspollinering) of application data from editable files."
+docs_dir: ../docs
+site_dir: ../site
 
 theme:
   name: 'material'
