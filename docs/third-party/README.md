@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/korspollinering/blob/default/sbom/cdx.json) with SHA256 checksum ([e90a0268 ...](https://git.sr.ht/~sthagen/korspollinering/blob/default/sbom/cdx.json.sha256 "sha256:e90a026843ca4e8b1711314a894d20e9913e68f9a41cbb0a126390b64c0b0350")).
-<!--[[[end]]] (checksum: 964d3a03222a2b40c57cff2553f4d124)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/korspollinering/blob/default/sbom/cdx.json) with SHA256 checksum ([9c09d9f6 ...](https://git.sr.ht/~sthagen/korspollinering/blob/default/sbom/cdx.json.sha256 "sha256:9c09d9f6fcb72f6023aadac6105a6c5801b8a5fae1746a8bee887862da381975")).
+<!--[[[end]]] (checksum: 63e994a1e7458f18a59b1631f162d701)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
