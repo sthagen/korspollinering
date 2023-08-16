@@ -2,10 +2,10 @@
   "$schema": "http://cyclonedx.org/schema/bom-1.4.schema.json",
   "bomFormat": "CycloneDX",
   "specVersion": "1.4",
-  "serialNumber": "urn:uuid:493606ca-a5c6-45e6-98c7-a7928195215f",
+  "serialNumber": "urn:uuid:79363e2e-7856-40a4-b7bd-0b9f2ac326f8",
   "version": 1,
   "metadata": {
-    "timestamp": "2023-08-15T06:03:33.184086+00:00",
+    "timestamp": "2023-08-16T06:22:43.450780+00:00",
     "tools": [
       {
         "vendor": "CycloneDX",
@@ -56,21 +56,21 @@
   "components": [
     {
       "type": "library",
-      "bom-ref": "3e86c300-297e-4890-91e6-fcd3ca5290f6",
+      "bom-ref": "af4074be-27cb-4597-a8b0-aad8bdb89d2a",
       "name": "GitPython",
       "version": "3.1.32",
       "purl": "pkg:pypi/gitpython@3.1.32"
     },
     {
       "type": "library",
-      "bom-ref": "8030b77b-79a8-4378-842b-74ebe3893d11",
+      "bom-ref": "aae87254-183c-4ea7-8bec-5531db41edde",
       "name": "PyYAML",
       "version": "6.0.1",
       "purl": "pkg:pypi/pyyaml@6.0.1"
     },
     {
       "type": "library",
-      "bom-ref": "0616122a-d891-44da-bbbe-b92471e2178b",
+      "bom-ref": "e3e050ad-526f-493a-a3d0-010456bb0c27",
       "name": "typer",
       "version": "0.9.0",
       "purl": "pkg:pypi/typer@0.9.0"
@@ -78,15 +78,15 @@
   ],
   "dependencies": [
     {
-      "ref": "3e86c300-297e-4890-91e6-fcd3ca5290f6",
+      "ref": "af4074be-27cb-4597-a8b0-aad8bdb89d2a",
       "dependsOn": []
     },
     {
-      "ref": "8030b77b-79a8-4378-842b-74ebe3893d11",
+      "ref": "aae87254-183c-4ea7-8bec-5531db41edde",
       "dependsOn": []
     },
     {
-      "ref": "0616122a-d891-44da-bbbe-b92471e2178b",
+      "ref": "e3e050ad-526f-493a-a3d0-010456bb0c27",
       "dependsOn": []
     }
   ]
