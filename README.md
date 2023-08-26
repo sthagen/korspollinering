@@ -7,7 +7,7 @@ Cross pollination (Swedish: korspollinering) of application data from editable f
 Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/korspollinering.svg?style=flat)](https://pypi.python.org/pypi/korspollinering/)
-[![downloads](https://pepy.tech/badge/korspollinering/month)](https://pepy.tech/project/korspollinering)
+[![downloads](https://static.pepy.tech/badge/korspollinering/month)](https://pepy.tech/project/korspollinering)
 [![wheel](https://img.shields.io/pypi/wheel/korspollinering.svg?style=flat)](https://pypi.python.org/pypi/korspollinering/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/korspollinering.svg?style=flat)](https://pypi.python.org/pypi/korspollinering/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/korspollinering.svg?style=flat)](https://pypi.python.org/pypi/korspollinering/)
