@@ -2,18 +2,15 @@
 
 Cross pollination (Swedish: korspollinering) of application data from editable files.
 
-[License: MIT](https://git.sr.ht/~sthagen/korspollinering/tree/default/item/LICENSE) |
-[Country of origin: Switzerland](https://git.sr.ht/~sthagen/korspollinering/tree/default/item/COUNTRY-OF-ORIGIN) |
-[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/korspollinering/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![license](badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/korspollinering/tree/default/item/LICENSE)
+[![Country of Origin](badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/korspollinering/tree/default/item/COUNTRY-OF-ORIGIN)
+[![Export Classification Control Number (ECCN)](badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/korspollinering/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![Configuration](badges/configuration-sbom.svg)](third-party/index.html)
 
-Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
-
-[![version](https://img.shields.io/pypi/v/korspollinering.svg?style=flat)](https://pypi.python.org/pypi/korspollinering/)
-[![downloads](https://static.pepy.tech/badge/korspollinering/month)](https://pepy.tech/project/korspollinering)
-[![wheel](https://img.shields.io/pypi/wheel/korspollinering.svg?style=flat)](https://pypi.python.org/pypi/korspollinering/)
-[![supported-versions](https://img.shields.io/pypi/pyversions/korspollinering.svg?style=flat)](https://pypi.python.org/pypi/korspollinering/)
-[![supported-implementations](https://img.shields.io/pypi/implementation/korspollinering.svg?style=flat)](https://pypi.python.org/pypi/korspollinering/)
-[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/korspollinering.svg?style=flat)](https://git.sr.ht/~sthagen/korspollinering/log)
+[![Version](https://img.shields.io/pypi/v/korspollinering.svg?style=flat)](https://pypi.python.org/pypi/korspollinering/)
+[![Downloads](https://static.pepy.tech/badge/korspollinering/month)](https://pepy.tech/project/korspollinering)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/korspollinering.svg?style=flat)](https://pypi.python.org/pypi/korspollinering/)
+[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/korspollinering.svg?style=flat)](https://git.sr.ht/~sthagen/korspollinering/log)
 
 ## Bug Tracker
 
