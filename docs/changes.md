@@ -1,4 +1,4 @@
 # Changes
 
-2022.4.20
-:    * Initial version on pypi (testing the packaging without setup.py)
+2023.10.29
+:    Initial publication on pypi as package test (nothing useful in it yet).

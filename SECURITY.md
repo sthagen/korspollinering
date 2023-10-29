@@ -4,10 +4,10 @@
 
 Versions of korspollinering currently being supported with security updates.
 
-| Version(s)  | Supported |
-|:----------- |:--------- |
-| 2023.4.20   | yes       |
-| < 2023.4.20 | no        |
+| Version(s)   | Supported |
+|:-------------|:----------|
+| 2023.10.29   | yes       |
+| < 2023.10.29 | no        |
 
 ## Reporting a Vulnerability
 
