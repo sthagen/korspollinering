@@ -9,7 +9,7 @@ Cross pollination (Swedish: korspollinering) of application data from editable f
 
 [![Version](docs/badges/latest-release.svg)](https://pypi.python.org/pypi/korspollinering/)
 [![Downloads](docs/badges/downloads-per-month.svg)](https://pepy.tech/project/korspollinering)
-[![Supported Versions](https://img.shields.io/pypi/pyversions/korspollinering.svg?style=flat)](https://pypi.python.org/pypi/korspollinering/)
+[![Python](docs/badges/python-versions.svg)](https://pypi.python.org/pypi/korspollinering/)
 [![Maintenance Status](docs/badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/korspollinering/log)
 
 ## Documentation
