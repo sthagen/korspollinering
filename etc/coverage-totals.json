@@ -1,7 +1,7 @@
 {
   "korspollinering": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:21:44.133802",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 15:56:46 +00:00",
     "branch_coverage": false,
     "show_contexts": true,
     "covered_lines": 0,
@@ -9,6 +9,22 @@
     "percent_covered": 0,
     "percent_covered_display": "0.00",
     "missing_lines": 6,
-    "excluded_lines": 0
+    "excluded_lines": 0,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 3,
+    "files": [
+      "korspollinering/__init__.py",
+      "korspollinering/api.py",
+      "korspollinering/cli.py"
+    ],
+    "blake3": "dfa54d41e0547428d7c59bdd8e9ca3add346a794424b9dabf3177e98b51010e7",
+    "blake2": "6a5eb28d1d53965ee13049a387e966f3eb8099b00870a6ce8bf8b60bf92faa09c3ce7f79199a3e25ad889a53adf892484b2f30a7819ffa0922fb9b02a2441d44",
+    "sha512": "dd058a6bf31348af6878fd57784835149eefaf1f154102848f083d5a28cc1f364f11beeea7e7a11d39e64c8e01190d42197b07b9eb03fc9dae8b7905da8d6cd1",
+    "sha384": "a46b3d4af3267d915201591a32af3d3adeef67976a206abf7bee9dc4ce5598ae2893f83af7cba3174816475396ec20ff",
+    "sha256": "3ffc8a352a53c1d979aa7ffc88addfb3566f44277481d33bd6380112ff06d7d6",
+    "sha1": "a5c6c7f0daaef81331d5149cb199ccd3bf876c3b",
+    "md5": "2b9e1d19b9ebc431ecaca6b9b6e1ce29",
+    "python_version": "3.10.12",
+    "entropy": 5.045961
   }
 }
