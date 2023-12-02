@@ -1,0 +1,14 @@
+{
+  "korspollinering": {
+    "version": "7.3.2",
+    "timestamp": "2023-12-02T15:21:44.133802",
+    "branch_coverage": false,
+    "show_contexts": true,
+    "covered_lines": 0,
+    "num_statements": 6,
+    "percent_covered": 0,
+    "percent_covered_display": "0.00",
+    "missing_lines": 6,
+    "excluded_lines": 0
+  }
+}
