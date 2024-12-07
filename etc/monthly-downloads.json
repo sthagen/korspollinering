@@ -42,11 +42,6 @@
     },
     {
       "category": "null",
-      "date": "2024-05",
-      "downloads": 3
-    },
-    {
-      "category": "null",
       "date": "2024-06",
       "downloads": 6
     },
@@ -73,7 +68,12 @@
     {
       "category": "null",
       "date": "2024-11",
-      "downloads": 33
+      "downloads": 35
+    },
+    {
+      "category": "null",
+      "date": "2024-12",
+      "downloads": 2
     }
   ],
   "package": "korspollinering",
