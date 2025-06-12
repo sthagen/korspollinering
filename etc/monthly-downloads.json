@@ -11,8 +11,18 @@
       "downloads": 2
     },
     {
+      "category": "3.11",
+      "date": "2025-06",
+      "downloads": 2
+    },
+    {
       "category": "3.12",
       "date": "2025-05",
+      "downloads": 2
+    },
+    {
+      "category": "3.12",
+      "date": "2025-06",
       "downloads": 2
     },
     {
@@ -21,9 +31,14 @@
       "downloads": 2
     },
     {
+      "category": "3.9",
+      "date": "2025-06",
+      "downloads": 2
+    },
+    {
       "category": "null",
       "date": "2024-12",
-      "downloads": 37
+      "downloads": 34
     },
     {
       "category": "null",
@@ -53,7 +68,7 @@
     {
       "category": "null",
       "date": "2025-06",
-      "downloads": 2
+      "downloads": 6
     }
   ],
   "package": "korspollinering",
